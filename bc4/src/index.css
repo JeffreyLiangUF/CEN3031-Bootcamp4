@@ -30,6 +30,11 @@ input[type='text'] {
 	height: 4rem;
 }
 
+.tab {
+	position:absolute;
+	left:75px; 
+}
+
 /* ##### NamesList ##### */
 tr {
 	padding: 0;
